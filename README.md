@@ -35,8 +35,8 @@ Your Authy desktop application should now be completely uninstalled from your sy
 
 ## TODO
 
-[ ] Add support for RHEL-based distros (Fedora/CentOS)
-[ ] Add support for openSUSE distros (Leap/Tumbleweed)
+- [ ] Add support for RHEL-based distros (Fedora/CentOS)
+- [ ] Add support for openSUSE distros (Leap/Tumbleweed)
 
 ## License
 
