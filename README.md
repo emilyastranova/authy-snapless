@@ -33,6 +33,11 @@ sudo rm /usr/share/pixmaps/authy-snapless.png
 
 Your Authy desktop application should now be completely uninstalled from your system.
 
+## TODO
+
+[ ] Add support for RHEL-based distros (Fedora/CentOS)
+[ ] Add support for openSUSE distros (Leap/Tumbleweed)
+
 ## License
 
 This project is licensed under the [GNU GPL v3](https://www.gnu.org/licenses/gpl-faq.en.html) license.
