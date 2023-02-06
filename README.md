@@ -22,7 +22,7 @@ sudo ./install-authy.sh
 
 ## License
 
-This project is licensed under the GNU GPL license.
+This project is licensed under the [GNU GPL v3](https://www.gnu.org/licenses/gpl-faq.en.html) license.
 
 ## Acknowledgements
 
