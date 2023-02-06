@@ -20,6 +20,19 @@ chmod +x install-authy.sh
 sudo ./install-authy.sh
 ```
 
+## Uninstall
+
+To uninstall the Authy desktop application installed through this script, use the following commands:
+
+```bash
+sudo rm /usr/bin/authy
+sudo rm -rf /opt/authy-snapless
+sudo rm /usr/share/applications/authy-snapless.desktop
+sudo rm /usr/share/pixmaps/authy-snapless.png
+```
+
+Your Authy desktop application should now be completely uninstalled from your system.
+
 ## License
 
 This project is licensed under the [GNU GPL v3](https://www.gnu.org/licenses/gpl-faq.en.html) license.
