@@ -1,3 +1,5 @@
+> Note: Authy Desktop has been shut down by Twilio. This script is being archived
+
 # Authy Snapless
 
 This repository contains a script for installing the Authy two-factor authentication desktop application on Debian-based operating systems using APT. This script avoids using the Snap daemon from Ubuntu, making it a simple and straightforward way to install Authy on Debian-based systems.
