@@ -9,7 +9,7 @@ This repository contains a script for installing the Authy two-factor authentica
 To clone this repository, run the following command in the terminal:
 
 ```bash
-git clone https://github.com/tyleraharrison/authy-snapless.git
+git clone https://github.com/emilyastranova/authy-snapless.git
 ```
 
 ## Installation
